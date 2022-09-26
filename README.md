@@ -20,5 +20,5 @@
 <div align='center'>
      <a href="https://github.com/rafawessling">
        <img height="180em"
-         src="https://github-readme-stats.vercel.app/api?username=rafawessling&show_icons=true&theme=tokyonight&include_all_commits=true" />         
+         src="https://github-readme-stats.vercel.app/api?username=rafawessling&theme=tokyonight&show_icons=true" />         
 </div>
