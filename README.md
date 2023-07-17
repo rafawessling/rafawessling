@@ -1,6 +1,8 @@
-<h2 align="center" style="color: darkblue">Hello, I'm Rafaela! 👩🏼‍💻</h2>
+<h1 align="center">Hello, I'm Rafaela! 👩🏼‍💻</h1>
 
-<center><img src = "image.gif" max-height="400"/></center>
+<div align="center">
+    <img src = "image.gif" max-height="400"/>
+</div>
 
 <br/>
 
@@ -15,7 +17,7 @@
 
 -   📌 Here you will find projects that I am developing and working on during my studies;
 
-<h3 align="center">Contacts</h3>
+<h2 align="center">Contacts</h2>
 
 <p align="center">
     <a href="https://linkedin.com/in/rafaela-wessling">
@@ -29,7 +31,7 @@
     </a>
 <p>
 
-<h3 align="center">Skills</h3>
+<h2 align="center">Skills</h2>
 
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML icon">
@@ -47,10 +49,11 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion icon">
 <p>
 
-<h3 align="center">Contributions</h3>
+<h2 align="center">Contributions</h2>
 
-<center><img src = 'https://github-readme-stats.vercel.app/api?username=rafawessling&count_private=true&theme=tokyonight&hide_border=true' alt = "GitHub Stats" height = 200 ></center>
-
-<center><img src = 'https://github-readme-stats.vercel.app/api/top-langs?username=rafawessling&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&theme=tokyonight&hide_border=true' alt = "Most Used Languages" height = 200 /></center>
-
+<div align="center">
+    <img src = 'https://github-readme-stats.vercel.app/api?username=rafawessling&count_private=true&theme=tokyonight&hide_border=true' alt = "GitHub Stats" height = 200 >
+</div>
+<div align="center">
+    <img src = 'https://github-readme-stats.vercel.app/api/top-langs?username=rafawessling&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&theme=tokyonight&hide_border=true' alt = "Most Used Languages" height = 200 />
 </div>
