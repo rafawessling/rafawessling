@@ -1,23 +1,27 @@
-<h1 align="center">Hello, I'm Rafaela! 👩🏼‍💻</h1>
+<h2 align="center">Hello, I'm Rafaela! 👩🏼‍💻</h2>
 
+<h3 align="center"><i>Full Stack Software Developer</i></h3>
 <div align="center">
     <img src = "image.gif" max-height="400"/>
 </div>
 
 <br/>
 
--   💙 Passionate about _technology and its challenges_;
--   💻 Currently studentying _Full Stack Software Development_ at [@cubosacademy](https://github.com/cubos-academy);
--   💡 Enthusiastic about contributing with the _tech community_;
--   📈 Thrive in a _collaborative environment_ and in _agile_ development teams;
--   📚 Bachelor's degree in _Civil Engineering_;
--   📑 Motivated to apply my _problem-solving_ and _analytical thinking_ skills from engineering to software development;
+<p>• 💙 Passionate about <i>technology and its challenges</i>;
+<br/>• 👩🏼‍💻 <i>Full Stack Software Developer</i> by <a href="https://github.com/cubos-academy">@cubosacademy</a>;
+<br/>• 💻 Currently pursuing a Bachelor's degree in <i>Software Engineering</i>;
+<br/>• 💡 Enthusiastic about contributing with the <i>tech community</i> through projects and collaborations;
+<br/>• 📈 Thrive in a <i>collaborative environment and in agile development teams</i>;
+<br/>• 📚 Bachelor's degree in <i>Civil Engineering</i>;
+<br/>• 📑 Motivated to leverage my <i>problem-solving, logical reasoning, and detail-oriented approach</i> to excel in software development. </p>
 
 <br/>
 
--   📌 Here you will find projects that I am developing and working on during my studies;
+<p>• 📌 Here you will find projects that I am developing and working on during my studies.</p>
 
-<h2 align="center">Contacts</h2>
+##
+
+<h3 align="center">Contacts</h3>
 
 <p align="center">
     <a href="https://linkedin.com/in/rafaela-wessling">
@@ -27,29 +31,41 @@
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub icon" >
     </a>
     <a href="mailto:rafaoening@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn icon" >
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail icon" >
     </a>
+    <a href="https://www.discordapp.com/users/rafawessling">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord icon"/>
+    </a>
+
 <p>
 
-<h2 align="center">Skills</h2>
+##
+
+<h3 align="center">Skills</h3>
 
 <p align="center">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React icon">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript icon">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript icon">
+    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI icon">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML icon">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS icon">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript icon">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJs icon">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React icon">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python icon">
     <br>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJs icon">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python icon">
     <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI icon">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL icon">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB icon">
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBI icon">
+    <br>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma icon">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub icon">
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode icon">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion icon">
 <p>
 
-<h2 align="center">Contributions</h2>
+##
+
+<h3 align="center">Contributions</h3>
 
 <div align="center">
     <img src = 'https://github-readme-stats.vercel.app/api?username=rafawessling&count_private=true&theme=tokyonight&hide_border=true' alt = "GitHub Stats" height = 200 >
